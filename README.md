@@ -1,5 +1,5 @@
 # [10 Days of JavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
-###### ✔ [Day 0: Hello, World!](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day0/day-0-hello-world.js)
+###### ✔ [Day 0: Hello, World!](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day0/day0-hello-world.js)
 ###### ✔ [Day 0: Data Types, World!](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day0/day-0-data-types.js)
 ###### ✔ [Day 1: Arithmetic Operators](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day1/day1-arithmetic-operators.js)
 ###### ✔ [Day 1: Functions](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day1/day1-functions.js)
