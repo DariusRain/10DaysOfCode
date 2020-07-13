@@ -18,7 +18,7 @@
 ###### ✔ [Day 6: Bitwise Operators](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day6/day6-bitwise-operators.js)
 ###### ✔ [Day 6: JavaScript Dates](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day6/day6-javascript-dates.js)
 ###### ✔ [Day 7: Regular Expressions I](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day7/day7-regular-expressions-1.js)
-###### ✔ [Day 7: Regular Expressions II(https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day7/day7-regular-expressions-2.js)
+###### ✔ [Day 7: Regular Expressions II](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day7/day7-regular-expressions-2.js)
 ###### ✔ [Day 7: Regular Expressions III](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day7/day7-regular-expressions-3.js)
 ###### ✔ [Day 8: Create a Button](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day8/create-button)
 ###### ✔ [Day 8: Buttons Container](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day8/buttons-container)
