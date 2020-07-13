@@ -22,4 +22,4 @@
 ###### ✔ [Day 7: Regular Expressions III](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day7/day7-regular-expressions-3.js)
 ###### ✔ [Day 8: Create a Button](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day8/create-button)
 ###### ✔ [Day 8: Buttons Container](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day8/buttons-container)
-###### 📝 [Day 9: Binary Calculator](#)
+###### ✔ [Day 9: Binary Calculator](https://github.com/DariusRain/10DaysOfJavaScript/blob/master/day8/binary-calculator)
