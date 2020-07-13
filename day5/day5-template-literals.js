@@ -1,0 +1,18 @@
+// Hackerrank
+// https://www.hackerrank.com/challenges/js10-template-literals/problem
+
+/*
+ * Determine the original side lengths and return an array:
+ * - The first element is the length of the shorter side
+ * - The second element is the length of the longer side
+ * 
+ * Parameter(s):
+ * literals: The tagged template literal's array of strings.
+ * expressions: The tagged template literal's array of expression values (i.e., [area, perimeter]).
+ */
+function sides(literals, ...expressions) {
+    const [area, parimeter] = expressions;
+    const formula = Math.sqrt(parimeter ** 2 - (16 * area)); 
+    return [((parimeter - formula) / 4), ((parimeter + formula) / 4)];
+}
+
